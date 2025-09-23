@@ -38,7 +38,7 @@ a {
 }
 
 a:hover{
-    color: rgb(107, 0, 0);
+    color: brown;
     background-color: antiquewhite;
     box-shadow: 0px 0px 15px 5px rgb(107, 0, 0);
 }
