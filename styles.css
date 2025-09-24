@@ -32,7 +32,7 @@ h1{font-family: autopia italic;}
 }
 
 a {
-    color: bisque;
+    color: rgb(255, 235, 208);
     font-family: autopia bold;
     font-size: 25px;
 }
@@ -41,14 +41,4 @@ a:hover{
     color: brown;
     background-color: antiquewhite;
     box-shadow: 0px 0px 15px 5px rgb(107, 0, 0);
-}
-
-.lock a{
-    color: black;
-
-}
-
-.lock a:hover{
-     background-color: rgb(0, 0, 0);
-    box-shadow: 0px 0px 15px 5px rgb(12, 0, 0);
 }
