@@ -24,15 +24,16 @@ h1{font-family: autopia italic;}
     grid-auto-rows: minmax(50px, auto);
     color: bisque;
     gap: 50px;
-    margin: center;
+    margin: 90px;
     position: relative;
     top: 20%;
     left: 20%;
     width: 15%;
+    justify-items: center;
 }
 
 a {
-    color: rgb(0, 0, 0);
+    color: brown (157, 2, 13, 0.344);
     font-family: autopia bold;
     font-size: 25px;
 }
@@ -41,4 +42,11 @@ a:hover{
     color: brown;
     background-color: antiquewhite;
     box-shadow: 0px 0px 15px 5px rgb(107, 0, 0);
+}
+a:visited {
+    color: brown;
+}
+body {
+    padding-bottom: 80px;
+    padding-top: 10px;
 }
