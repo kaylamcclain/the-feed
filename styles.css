@@ -34,19 +34,6 @@ h1{font-family: autopia italic;}
     align-items: center;
 }
 
-.container div {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-.container img {
-    max-width: 400px;
-    width: 100%;
-    height: auto;
-    display: block;
-}
-
 a {
     color: brown (157, 2, 13, 0.344);
     font-family: autopia bold;
